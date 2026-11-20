@@ -1,0 +1,5 @@
+[pre_model_sync]
+project_calendar.patches.v0_2.remove_project_centered_doctypes
+
+[post_model_sync]
+project_calendar.patches.v0_2.create_default_view

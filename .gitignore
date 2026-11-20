@@ -1,0 +1,5 @@
+node_modules/
+__pycache__/
+*.pyc
+frontend/auto-imports.d.ts
+frontend/components.d.ts
